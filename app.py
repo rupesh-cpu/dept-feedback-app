@@ -150,3 +150,19 @@ if st.session_state.unlocked:
                 st.dataframe(data)
     else:
         st.info("No feedback entries found.")
+# --- Dashboard (only if unlocked) ---
+if st.session_state.unlocked:
+    st.header("📊 Facilities Feedback Dashboard")
+    # ... your dashboard code ...
+
+else:
+    st.info("No feedback entries found.")
+
+# --- Footer ---
+st.markdown(
+    """
+    ---
+    © 2026 RUPESH PATARE. All rights reserved.
+    """,
+    unsafe_allow_html=True
+)        
