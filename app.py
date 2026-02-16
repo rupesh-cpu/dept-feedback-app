@@ -7,7 +7,7 @@ import os
 
 # --- Page Config for Mobile ---
 st.set_page_config(
-    page_title="Department Feedback",
+    page_title="Department Feedback (AIDS)",
     page_icon="🏫",
     layout="centered"
 )
@@ -45,7 +45,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("🏫 Department Facilities Feedback")
+st.title("🏫 Department Facilities Feedback (AIDS)")
 
 # --- Feedback Form ---
 location = st.selectbox("📍 Location", ["HOD Cabin", "IoT Lab", "SL1", "SL2", "Classroom 1", "Classroom 2"])

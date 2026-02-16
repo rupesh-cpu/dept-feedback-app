@@ -13,7 +13,7 @@ locations = [
 ]
 
 # Base URL of your Streamlit app (replace with your deployed link later)
-BASE_URL = "https://dept-feedback.streamlit.app/"
+BASE_URL = "https://rupesh-cpu-dept-feedback-app-app-xxgqmh.streamlit.app/"
 
 # Absolute output folder path
 output_dir = r"C:\Users\RUPESH PATARE\Desktop\dept-feedback-app\asset\qr_codes"
