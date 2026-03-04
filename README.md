@@ -16,7 +16,7 @@ This app allows students to submit complaints, suggestions, or notes about colle
 ---
 
 ## 🚀 Live Demo
-👉 [Open the Dashboard](http://localhost:8501/#department-facilities-feedback-aids)
+👉 [Open the Dashboard]((https://rupesh-cpu-dept-feedback-app-app-xxgqmh.streamlit.app/))
 
 ---
 
